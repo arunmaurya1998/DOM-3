@@ -1,0 +1,7 @@
+/* Fill CSS here */
+
+/* Add borders to all columns */
+th, th {
+    border: 1px solid #000;
+    background-color: blue;
+  }
